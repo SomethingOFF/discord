@@ -1,6 +1,6 @@
 Discord clone
 
-
+![discord](https://github.com/SomethingOFF/discord/assets/158725920/e8bfc78d-c737-4ce9-b04d-3d24a6cfb8c9)
 
 
 Features:
